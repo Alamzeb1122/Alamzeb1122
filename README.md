@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 I’m a **Full-Stack Developer** specializing in **Flutter, FlutterFlow, and React**, with over **3 years of hands-on experience**.  
-Currently pursuing an **MSc in Computer Science at the University of East London**, I’m passionate about building **scalable web and mobile applications**.  
+Currently pursuing an **MSc in Artificial intelligence  at the University of Huddersfield**, I’m passionate about building **scalable web and mobile applications**.  
 
 I have a proven track record of delivering **high-quality projects** for startups, businesses, and clients worldwide.  
 
