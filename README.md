@@ -6,13 +6,13 @@ Highly skilled Flutter Developer with over 3 years of experience, recognized wit
 ## 📄 My Resume  
 🎯 Looking for my detailed experience and skills? Check out my *CV* below!  
 
-[View My CV](https://docs.google.com/document/d/10iSKas6p5UN86yhfL6-vlbwgUM2FeyNfMeg-dQO4taw/edit?usp=sharing)
-[Check Out My Portoflio](https://asdevify.uk)
+[View My CV](https://drive.google.com/file/d/1OjxQo1i9aGTVgLWWNYO-pOF6bxmPqOlA/view?usp=sharing)
+
 
 
 <div align="center">
   <img src="assets/badge.png" width="489" height="152" style="border-radius: 50%;">
-  <h1>Abdul S. <img src="https://img.shields.io/badge/Top%20Rated-blue?style=flat-square&logo=upwork&logoColor=white" /></h1>
+  <h1>Alam Zeb <img src="https://img.shields.io/badge/Top%20Rated-blue?style=flat-square&logo=upwork&logoColor=white" /></h1>
   <p>
     <img src="https://img.shields.io/badge/100%25-Job%20Success-brightgreen?style=flat-square&logo=upwork&logoColor=white" />
     <img src="https://img.shields.io/badge/Top%20Rated-★-blue?style=flat-square&logo=upwork&logoColor=white" />
