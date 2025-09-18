@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 I’m a **Full-Stack Developer** specializing in **Flutter, FlutterFlow, and React**, with over **3 years of hands-on experience**.  
-Currently pursuing an ** MSc Applied Artificial Intelligence  at the University of Huddersfield**, I’m passionate about building **scalable web and mobile applications**.  
+Currently pursuing an **MSc Applied Artificial Intelligence  at the University of Huddersfield**, I’m passionate about building **scalable web and mobile applications**.  
 
 I have a proven track record of delivering **high-quality projects** for startups, businesses, and clients worldwide.  
 
@@ -95,24 +95,51 @@ A **LinkedIn automation platform** combining **mobile (Flutter)** + **web (React
 - AI-powered LinkedIn search, posts & comments  
 - Firebase auth + GPT APIs  
 
-### 🎵 Music App  
-- **FastAPI + PostgreSQL**  
-- Personalized playlists & offline playback  
-- Clean architecture  
+### 👶 BabyCare 360 – Parenting Companion  
+- Cross-platform app for tracking baby routines (feeding, sleep, diaper, growth).  
+- Multi-user support for parents, co-parents & caretakers.  
+- Appointment, vaccination & medication reminders.  
+- Built with **Flutter + Firebase**.  
 
-### 🛒 E-commerce App (Amazon-like)  
-- **React + Node.js + MongoDB**  
-- Real-time inventory & cart  
-- Scalable backend  
+### 💊 MedicaReminder – Pill & Health Assistant  
+- Medication & appointment reminders with caretaker alerts.  
+- Secure storage of medical reports.  
+- Notifications for missed doses & upcoming visits.  
+- Developed in **FlutterFlow + Supabase**.  
 
-### 🍽️ Restaurant Management System  
-- Built with **Supabase**  
-- Order & table management system  
+### 🛒 Custom Blinds E-Commerce Platform  
+- Full-stack web app built with **React + TypeScript + Node.js**.  
+- Shopping cart, payments, and admin dashboard.  
+- Scalable backend with **MongoDB & Firebase**.  
+
+### 🎵 Music Streaming App  
+- Real-time streaming with playlists & user profiles.  
+- Offline playback support.  
+- Backend using **FastAPI + PostgreSQL**, frontend in **FlutterFlow**.  
+
+### 🍽️ Doyran Restaurant App  
+- Digital menu, orders & table booking.  
+- Customer-friendly mobile interface.  
+- Powered by **Flutter + Supabase**.  
+
+### 🛡️ Scam Spy – Product Authenticity Checker  
+- Detects fake products using **QR & Barcode scanning**.  
+- Ensures brand authenticity & protects consumers.  
+- Built with **Flutter**.  
 
 ### 👮 Security Guard Management Platform  
-- Contractor–guard job marketplace  
-- Referral & placement system  
-- Real-time communication  
+- Contractor–guard job marketplace.  
+- Real-time communication, referral & placement system.  
+- Backend with **Firebase**.  
+
+### 📊 Business Analytics Dashboard  
+- Role-based KPI dashboard with interactive charts.  
+- Built using **React + Supabase**.  
+
+### 🏥 Doctor Appointment & Lab Management System  
+- End-to-end platform for clinics & labs.  
+- Appointment scheduling, lab results, and patient records.  
+- Developed with **Flutter + Firebase**.  
 
 ---
 
