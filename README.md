@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 I’m a **Full-Stack Developer** specializing in **Flutter, FlutterFlow, and React**, with over **3 years of hands-on experience**.  
-Currently pursuing an **MSc in Artificial intelligence  at the University of Huddersfield**, I’m passionate about building **scalable web and mobile applications**.  
+Currently pursuing an ** MSc Applied Artificial Intelligence  at the University of Huddersfield**, I’m passionate about building **scalable web and mobile applications**.  
 
 I have a proven track record of delivering **high-quality projects** for startups, businesses, and clients worldwide.  
 
@@ -24,15 +24,14 @@ Looking for my detailed experience and skills? Check out my **CV** here:
 
 ## 💼 Current Roles  
 
-- 🚀 **FlutterFlow & React Developer** at [Element16media](https://element16media.com/meet-the-team/) *(Remote, Telford, UK)*  
-  - Cross-platform mobile apps using Flutter & FlutterFlow  
-  - Web apps & dashboards with React + TypeScript  
-  - Clean architecture with **BLoC pattern** in Flutter  
-
 - 💻 **Freelance Full-Stack Developer**  
-  - Building mobile & web apps across diverse industries  
+  - Building mobile & web apps using **Flutter, FlutterFlow, and React**  
+  - Clean architecture with **BLoC, Provider, Riverpod, and GetX**  
+  - Backend solutions with **FastAPI, Node.js, Spring Boot, Firebase, Supabase, MongoDB, and PostgreSQL**  
 
-- 🎓 **MSc Computer Science Student** at University of East London  
+- 🎓 **MSc Applied Artificial Intelligence Student** at the University of Huddersfield  
+  - Exploring **Machine Learning, Deep Learning, Big Data, and Cloud Computing**  
+
 
 ---
 
