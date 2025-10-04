@@ -16,6 +16,7 @@ Looking for my detailed experience and skills? Check out my **CV** here:
 
 <div align="center">
   <img src="assets/badge.png" width="480" alt="Profile Badge"/>
+  <img width="1024" height="1024" alt="mypicture" src="https://github.com/user-attachments/assets/b8c2089e-644e-48ba-95e3-eb6e6fb177c3" />
   <h1>Alam Zeb</h1>
   <p>🌍 London, United Kingdom</p>
 </div>
@@ -53,7 +54,7 @@ A **LinkedIn automation platform** combining **mobile (Flutter)** + **web (React
 - REST APIs  
 
 ---
-<img width="1024" height="1024" alt="mypicture" src="https://github.com/user-attachments/assets/b8c2089e-644e-48ba-95e3-eb6e6fb177c3" />
+
 
 ## 🛠️ Skills & Technologies  
 
