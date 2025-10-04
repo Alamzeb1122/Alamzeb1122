@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 I’m a **Full-Stack Developer** specializing in **Flutter, FlutterFlow, and React**, with over **3 years of hands-on experience**.  
-Currently pursuing an **MSc Applied Artificial Intelligence  at the University of Huddersfield**, I’m passionate about building **scalable web and mobile applications**.  
+Currently pursuing an **MSc in Applied Artificial Intelligence at the University of Huddersfield**, I’m passionate about building **scalable web and mobile applications**.  
 
 I have a proven track record of delivering **high-quality projects** for startups, businesses, and clients worldwide.  
 
@@ -33,7 +33,6 @@ Looking for my detailed experience and skills? Check out my **CV** here:
 - 🎓 **MSc Applied Artificial Intelligence Student** at the University of Huddersfield  
   - Exploring **Machine Learning, Deep Learning, Big Data, and Cloud Computing**  
 
-
 ---
 
 ## 🛠️ Current Project @ Nexl  
@@ -54,7 +53,6 @@ A **LinkedIn automation platform** combining **mobile (Flutter)** + **web (React
 - REST APIs  
 
 ---
-
 
 ## 🛠️ Skills & Technologies  
 
@@ -79,14 +77,14 @@ A **LinkedIn automation platform** combining **mobile (Flutter)** + **web (React
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ### 💻 Programming Languages  
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 
-### 📦 State Management  
-- BLoC  
-- Provider  
-- GetX  
-- Riverpod  
+### 🏗️ Architecture & Patterns  
+`BLoC` • `Provider` • `GetX` • `Riverpod` • `MVVM` • `Clean Architecture` • `Redux` • `Context API` • `React Query` • `Hooks Architecture` • `Atomic Design`
 
 ---
 
@@ -119,10 +117,18 @@ A **LinkedIn automation platform** combining **mobile (Flutter)** + **web (React
 - Offline playback support.  
 - Backend using **FastAPI + PostgreSQL**, frontend in **FlutterFlow**.  
 
-### 🍽️ Doyran Restaurant App  
-- Digital menu, orders & table booking.  
-- Customer-friendly mobile interface.  
-- Powered by **Flutter + Supabase**.  
+### 🍽️ Doyran Restaurant Platform  
+A **complete restaurant ecosystem** with three integrated modules for customers, restaurant staff, and administrators.  
+
+**Modules:**  
+- 📱 **Customer App (Flutter)** – Digital menu, food ordering, and table booking with real-time updates.  
+- 💻 **Restaurant Dashboard (React)** – Manage menus, orders, and table availability.  
+- 🧑‍💼 **Admin Panel (React)** – Monitor sales, manage restaurants, and view analytics & performance reports.  
+
+**Tech Stack:**  
+- **Frontend:** Flutter (Mobile), React (Web & Admin)  
+- **Backend:** Supabase  
+- **Features:** Authentication, Live Order Tracking, Analytics Dashboard, and Role-based Access  
 
 ### 🛡️ Scam Spy – Product Authenticity Checker  
 - Detects fake products using **QR & Barcode scanning**.  
