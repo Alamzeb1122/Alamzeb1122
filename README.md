@@ -53,6 +53,7 @@ A **LinkedIn automation platform** combining **mobile (Flutter)** + **web (React
 - REST APIs  
 
 ---
+<img width="1024" height="1024" alt="mypicture" src="https://github.com/user-attachments/assets/b8c2089e-644e-48ba-95e3-eb6e6fb177c3" />
 
 ## 🛠️ Skills & Technologies  
 
