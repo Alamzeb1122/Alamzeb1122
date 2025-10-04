@@ -10,7 +10,7 @@ I have a proven track record of delivering **high-quality projects** for startup
 
 ## 📄 My Resume  
 Looking for my detailed experience and skills? Check out my **CV** here:  
-👉 [View My CV](https://drive.google.com/file/d/1OjxQo1i9aGTVgLWWNYO-pOF6bxmPqOlA/view?usp=sharing)  
+👉 [View My CV](https://drive.google.com/file/d/1VqNZUVNQJ8pbQU0yebgxhIg4yfURtSZd/view?usp=sharing)  
 
 ---
 
